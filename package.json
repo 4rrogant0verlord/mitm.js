@@ -1,0 +1,17 @@
+{
+  "name": "mitm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mitm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
